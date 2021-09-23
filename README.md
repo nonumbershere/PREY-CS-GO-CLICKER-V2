@@ -1,7 +1,7 @@
-# What Is ＰＲΞＹ Client?
-**ＰＲΞＹ Client is a cheat for [CS:GO Clicker V2](https://csgo.mtsl.dk/), free to use always!**
+## What Is ＰＲΞＹ Client?
+**ＰＲΞＹ Client is a cheat for [CS:GO Clicker V2 Beta](https://csgo.mtsl.dk/), free to use always!**
 
-# Questions
+## Questions
 ### What is the must_run.js file?
 ***It's for emergency uses, such as informing users of an error or an event! But this is mostely to add extra code, other than that it's useless.***
 ### What is the version file?
@@ -11,5 +11,12 @@
 ### Is This Malware?
 ***No, everything in the code is safe.***
 
-# Authors
+## Authors
 - [Lapide](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q) ~ Founder
+
+## Installation
+1) Install [Tamoer Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+2) Go to the [GreasyFork Page](https://greasyfork.org/en/scripts/432853-%EF%BD%90%EF%BD%92%CE%BE%EF%BD%99-client-beta-cs-go-clicker-beta-2-working)
+
+# !WARNING!
+**This script may possibly be deleted by the owner. Reasons not going to be discussed.**
