@@ -16,7 +16,7 @@
 
 ## Installation
 1) Install [Tamoer Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
-2) Go to the [GreasyFork Page](https://greasyfork.org/en/scripts/432853-%EF%BD%90%EF%BD%92%CE%BE%EF%BD%99-client-beta-cs-go-clicker-beta-2-working)
+2) Go to the [GreasyFork Page](https://greasyfork.org/en/scripts/432901-%EF%BD%90%EF%BD%92%CE%BE%EF%BD%99-csgo-client-beta-cs-go-clicker-beta-2-working)
 
 # !WARNING!
 **This script may possibly be deleted by the owner. Reasons not going to be discussed.**
