@@ -7,5 +7,7 @@ var discord = confirm("Would you like to join the official Discord Server?");
 
 if (discord) {
 open('https://discord.gg/cEPKrx96nk')
+  setTimeout(() = >{
   alert("If you don't see the Discord server then try this: https://discord.gg/cEPKrx96nk");
+  }, 1000)
 }
