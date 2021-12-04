@@ -1,2 +1,3 @@
 currency.addCash(100);
-alerts.default("+100 Cash!")
+alerts.default("Hello World!")
+console.log("Hello World!");
