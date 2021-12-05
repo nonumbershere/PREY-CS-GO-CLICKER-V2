@@ -15,7 +15,7 @@
 - [Lapide](https://www.youtube.com/channel/UCL3XW3JfhRCZpeHJOFAV56Q) ~ Founder
 
 ## Installation
-1) Install [Tamoer Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+1) Install [Tamper Monkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 
 # !WARNING!
 **This script may possibly be deleted by the owner. Reasons not going to be discussed.**
