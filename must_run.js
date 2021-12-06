@@ -1,3 +1,4 @@
+/*
 // This line prints "MUST-RUN ACTIVATED"
 console.log("MUST-RUN ACTIVATED");
 // Other Code
@@ -11,3 +12,4 @@ open('https://discord.gg/cEPKrx96nk')
   alert("If you don't see the Discord server then try this: https://discord.gg/cEPKrx96nk");
   }, 1000)
 }
+*/
