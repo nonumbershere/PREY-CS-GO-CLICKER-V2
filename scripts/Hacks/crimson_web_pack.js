@@ -1,4 +1,4 @@
-// Raw URL: 
+// Raw URL: https://github.com/nonumbershere/PREY-CS-GO-CLICKER-V2/raw/main/scripts/Hacks/crimson_web_pack.js
 
 if(itemExists(`Skeleton Knife | Crimson Web`)){client.user.inventory.push(`Skeleton Knife | Crimson Web`)}
 if(itemExists(`Paracord Knife | Crimson Web`)){client.user.inventory.push(`Paracord Knife | Crimson Web`)}
