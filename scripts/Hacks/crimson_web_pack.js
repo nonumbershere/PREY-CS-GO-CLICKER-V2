@@ -21,3 +21,4 @@ if(itemExists(`Desert Eagle | Crimson Web`)){client.user.inventory.push(`Desert 
 if(itemExists(`R8 Revolver | Crimson Web`)){client.user.inventory.push(`R8 Revolver | Crimson Web`)}
 if(itemExists(`CZ75-Auto | Crimson Web`)){client.user.inventory.push(`CZ75-Auto | Crimson Web`)}
 if(itemExists(`SCAR-20 | Crimson Web`)){client.user.inventory.push(`SCAR-20 | Crimson Web`)}
+alerts.success("Injected all Crimson Web pack!");
