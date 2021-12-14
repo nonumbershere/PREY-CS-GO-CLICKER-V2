@@ -1,1 +1,1 @@
-
+document.body.innerHTML="Offline";
