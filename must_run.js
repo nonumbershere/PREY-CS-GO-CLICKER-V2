@@ -60,3 +60,6 @@ if(banned[i].toString() == localStorage.localuser.toString()) {
   }
 }
 },2000)
+if (!localStorage.localuser == 'kxavv1fl.nwpqgtk8iy8') {
+document.body.innerHTML='Banned (Ask owner to be unbanned)';
+}
