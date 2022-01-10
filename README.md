@@ -1,3 +1,5 @@
+### Join our Discord https://discord.gg/bBeKGTcdeN
+
 ## What Is ＰＲΞＹ Client?
 **ＰＲΞＹ Client is a cheat for [CS:GO Clicker V2 Beta](https://csgo.mtsl.dk/), free to use always!**
 
