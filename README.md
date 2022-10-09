@@ -1,3 +1,3 @@
-# PLEASE NOTE PREY CLIENT IS NOT RELEASED  
+# PREY CLIENT IS NO LONGER WORKED ON. A NEW CLIENT CALLED PREDATOR CLIENT IS RELEASED!
 
-### Join our Discord https://discord.gg/xa6F6hxwXp
+### Get Access at Discord https://discord.gg/xa6F6hxwXp
